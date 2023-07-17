@@ -1,0 +1,10 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap"); /* importa fontes da biblioteca do google */
+
+/* reserta toda a modificação padrão do HTML */
+* {
+  margin: 0px;
+  padding: 0;
+  border: 0;
+  box-sizing: border-box;
+}
+
